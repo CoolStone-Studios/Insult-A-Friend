@@ -1,0 +1,29 @@
+body{
+background-color: gray;
+text-align: center;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+overflow: hidden;
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+input{
+outline: none;
+}
+
+.email, .send {
+    width: 20%;
+    background-color: ghostwhite;
+    outline: none;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+}
+
+.email{
+    height: 5vh;
+}

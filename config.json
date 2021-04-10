@@ -1,0 +1,17 @@
+{
+"port":3000,
+
+"favicon":"",
+
+"title":"Insult A Friend",
+
+
+"EMAIL_SUBJECT":"You have been insulted!",
+
+"EMAIL_SERVICE":"outlook",
+
+"EMAIL_AUTH":{
+"user":"insultafriend@outlook.com",
+"pass":" "
+}
+}
